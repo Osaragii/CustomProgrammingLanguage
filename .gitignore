@@ -1,0 +1,13 @@
+#<------This will prevent Git from tracking compiled object files (.o) and executables (.exe or .out) so that only your source code is version-controlled.-------------------------------------------------------------------------------------------------------------------->
+
+# Ignore object files and binaries ♥
+
+*.o
+*.exe
+*.out
+
+# Ignore build directories ♥
+
+/build
+
+#<x-----------------------x----------------------x------------------------x---------------------x---------------------x---------------x>
