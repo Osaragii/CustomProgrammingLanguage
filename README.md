@@ -6,9 +6,9 @@ Hello hello this is our project idk the name for the language yet but I'll think
 <br>
 ## Project Structure!
 
-'src'         : Will contain the main C++ source code files??
-'include'     : Header files for organizing reusable code!
-'tests'       : Unit tests for each component.
+'src'         : Will contain the main C++ source code files??<br>
+'include'     : Header files for organizing reusable code!<br>
+'tests'       : Unit tests for each component.<br>
 
 <br>
 ## Progress(cuz why not♣)
