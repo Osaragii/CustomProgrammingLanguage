@@ -14,6 +14,6 @@ Hello hello this is our project idk the name for the language yet but I'll think
 ## Progress(cuz why not♣)
 
 [x] - Set up project structure<br>
-[ ] - Implement lexer<br>
+[\] - Implement lexer<br>
 [ ] - Implement parser<br>
 [ ] - Build interpreter<br>
