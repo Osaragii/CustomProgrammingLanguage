@@ -1,7 +1,9 @@
-#include<iostream>
+#include"lexer.h"
 
 int main() {
-    std::cout<<"Welcome to whatever we are doing!!!yayayayayy?!?!!\n";
-
+    std::string input = "int main() { return 0; }";
+    Lexer lexer(input);
+    std::vector<Token> tokens = lexer.tokenize();
+    printTokens(tokens);
     return 0;
 }
